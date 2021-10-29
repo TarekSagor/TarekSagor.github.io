@@ -1,0 +1,42 @@
+html {
+    font-family: sans-serif;
+}
+.heading {
+    color: red;
+}
+.heading2 {
+    color: green;
+}
+
+.btn {
+    background-color: salmon;
+    color: brown;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border: 2px solid brown;
+    border-radius: 25px;
+}
+
+.btn:hover {
+    background-color: rgb(248, 172, 164);
+    color: rgb(122, 23, 23);
+}
+
+.fb {
+    color: red;
+    font-size: 22px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: block;
+    text-decoration: none;
+}
+
+.fb:hover {
+    color: blue;
+}
+
+.image {
+    height: 22px;
+    margin-bottom: -2px;
+}
